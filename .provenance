@@ -1,0 +1,5 @@
+This project was created by Atomist from seed project https://github.com/spring-team/spring-rest-seed
+
+Transform recipes:
+	spring-boot-maven
+	spring-docker
